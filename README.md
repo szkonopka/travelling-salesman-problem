@@ -1,4 +1,4 @@
-#Travelling Salesman problem
+# Travelling Salesman problem
 
 Solutions for the travelling salesman problem in C++/Python, using
 - genetic algorithm
@@ -6,4 +6,4 @@ Solutions for the travelling salesman problem in C++/Python, using
 - greedy algorithm
 - tabu-search algorithm
 
-##Genetic algorithm
+## Genetic algorithm
